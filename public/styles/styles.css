@@ -130,7 +130,7 @@ main {
 /* ------------------ Sidebar Styles --------------- */
 aside {
   background-color: var(--background-color-light);
-  flex-basis: 380px;
+  flex-basis: 280px;
   position: fixed;
   top: 63px;
   left: -100%;
