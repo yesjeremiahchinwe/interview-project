@@ -2,11 +2,11 @@
 
 ## Screenshot
 
-![Desktop View](./public/assets/event_dashboard_screenshot.png.png)
+![Desktop View](./public/assets/event_dashboard_screenshot.png)
 
 ## Links
 
-- Live Site URL: [Vercel](https://getlinked-mu.vercel.app/)
+- Live Site URL: [Vercel](https://interview-project-xi.vercel.app/)
 
 ## Built With
 

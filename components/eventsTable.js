@@ -10,19 +10,14 @@ const table = new DataTable("#myTable", {
     { responsivePriority: 2, targets: -1 },
   ],
   layout: {
-    topEnd: "info",
     topStart: {
       search: {
         placeholder: "Search...",
       },
     },
-    topEnd: "buttons",
+    topEnd: 'buttons',
     bottomEnd: "pageLength",
     bottomStart: "paging",
-  },
-  buttons: {
-    name: "primary",
-    buttons: ["copy", "csv", "excel"],
   },
 });
 
