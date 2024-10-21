@@ -455,6 +455,10 @@ aside a.user_details small.user_email {
 }
 
 /* -------------------------- Carousel Styles ------------------------- */
+.carousel_wrapper {
+  height: 100%;
+  flex: 1 1 50%;
+}
 .carousel_wrapper .carousel-item {
   position: relative;
 }
@@ -792,7 +796,8 @@ aside a.user_details small.user_email {
   }
 
   .carousel_wrapper {
-    min-width: 45%;
+    min-width: 40%;
+    height: 100%;
   }
 
   .charts_and_carousel_wrapper {
