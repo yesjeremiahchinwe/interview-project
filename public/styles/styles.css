@@ -798,7 +798,7 @@ aside a.user_details small.user_email {
   .carousel_wrapper {
     min-width: 40%;
     height: 100%;
-  }g
+  }
 
   .charts_and_carousel_wrapper {
     grid-template-columns: repeat(2, 1fr);
