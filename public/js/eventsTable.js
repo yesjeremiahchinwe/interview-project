@@ -80,7 +80,7 @@ const data = [
     status: "Completed",
   },
   {
-    id: "ninthEvent",
+    id: "ninethEvent",
     eventName: "Smart Cities Forum",
     date: "2024-10-18",
     speaker: "Dr. Maria Hernandez",
